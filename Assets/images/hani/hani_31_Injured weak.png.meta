@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: fb74393120e73874a98d8d48d5d9a665
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5223069615949753364
+    second: hani_31_Injured weak_0
+  - first:
+      213: -2835061251789046282
+    second: hani_31_Injured weak_1
+  - first:
+      213: -3372098707982096511
+    second: hani_31_Injured weak_2
+  - first:
+      213: -2470383921194274747
+    second: hani_31_Injured weak_3
+  - first:
+      213: 1812578217813805450
+    second: hani_31_Injured weak_4
+  - first:
+      213: -2938644628507881047
+    second: hani_31_Injured weak_5
+  - first:
+      213: 7911568846450421824
+    second: hani_31_Injured weak_6
+  - first:
+      213: -2584034313440950860
+    second: hani_31_Injured weak_7
+  - first:
+      213: -8289790228943757692
+    second: hani_31_Injured weak_8
+  - first:
+      213: -5694924046017003304
+    second: hani_31_Injured weak_9
+  - first:
+      213: 6243651107399738756
+    second: hani_31_Injured weak_10
+  - first:
+      213: 4668959134272290710
+    second: hani_31_Injured weak_11
+  - first:
+      213: -500710385949518728
+    second: hani_31_Injured weak_12
+  - first:
+      213: 6511712913070743726
+    second: hani_31_Injured weak_13
+  - first:
+      213: 779261176409000927
+    second: hani_31_Injured weak_14
+  - first:
+      213: -5701613421037996887
+    second: hani_31_Injured weak_15
+  - first:
+      213: 3125994675410261170
+    second: hani_31_Injured weak_16
+  - first:
+      213: -3988567190023999406
+    second: hani_31_Injured weak_17
+  - first:
+      213: 6387856279189227248
+    second: hani_31_Injured weak_18
+  - first:
+      213: 4884700642950092245
+    second: hani_31_Injured weak_19
+  - first:
+      213: 8086269145967187662
+    second: hani_31_Injured weak_20
+  - first:
+      213: 5787275110494571887
+    second: hani_31_Injured weak_21
+  - first:
+      213: -5959010275027025897
+    second: hani_31_Injured weak_22
+  - first:
+      213: -7520864669236629286
+    second: hani_31_Injured weak_23
+  - first:
+      213: 6833398123332828538
+    second: hani_31_Injured weak_24
+  - first:
+      213: 7962215662287778382
+    second: hani_31_Injured weak_25
+  - first:
+      213: -4826492683073412887
+    second: hani_31_Injured weak_26
+  - first:
+      213: 9173438082138372235
+    second: hani_31_Injured weak_27
+  - first:
+      213: -5097681932106931664
+    second: hani_31_Injured weak_28
+  - first:
+      213: 5859016727083921512
+    second: hani_31_Injured weak_29
+  - first:
+      213: -8064101593896032023
+    second: hani_31_Injured weak_30
+  - first:
+      213: 307346217341612314
+    second: hani_31_Injured weak_31
+  - first:
+      213: -6659001374558794883
+    second: hani_31_Injured weak_32
+  - first:
+      213: -1398047248366474041
+    second: hani_31_Injured weak_33
+  - first:
+      213: 1486919278325974420
+    second: hani_31_Injured weak_34
+  - first:
+      213: 2617619237505835900
+    second: hani_31_Injured weak_35
+  - first:
+      213: 2072606002985597509
+    second: hani_31_Injured weak_36
+  - first:
+      213: -8401795416504241213
+    second: hani_31_Injured weak_37
+  - first:
+      213: 1276711868743590281
+    second: hani_31_Injured weak_38
+  - first:
+      213: 6831999228330069921
+    second: hani_31_Injured weak_39
+  - first:
+      213: 328015593898536656
+    second: hani_31_Injured weak_40
+  - first:
+      213: 7203128346065214925
+    second: hani_31_Injured weak_41
+  - first:
+      213: -3445614549401512663
+    second: hani_31_Injured weak_42
+  - first:
+      213: 5923015963984948216
+    second: hani_31_Injured weak_43
+  - first:
+      213: -7270242970587631709
+    second: hani_31_Injured weak_44
+  - first:
+      213: 4207490210060400422
+    second: hani_31_Injured weak_45
+  - first:
+      213: -6056143489243882723
+    second: hani_31_Injured weak_46
+  - first:
+      213: 741575114836461839
+    second: hani_31_Injured weak_47
+  - first:
+      213: 351691240110647106
+    second: hani_31_Injured weak_48
+  - first:
+      213: 8426125291291655028
+    second: hani_31_Injured weak_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hani_31_Injured weak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c22d784221c7840800000000000000
+      internalID: 5223069615949753364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdb3a2ffc6d7a8d0800000000000000
+      internalID: -2835061251789046282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1876c2b5716e331d0800000000000000
+      internalID: -3372098707982096511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f06e89ee67bdd0800000000000000
+      internalID: -2470383921194274747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8907602942972910800000000000000
+      internalID: 1812578217813805450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a19daca746d737d0800000000000000
+      internalID: -2938644628507881047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04079b4d2f98bcd60800000000000000
+      internalID: 7911568846450421824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b58ee39b7aa32cd0800000000000000
+      internalID: -2584034313440950860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_8
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e9d4d35bfb4fc80800000000000000
+      internalID: -8289790228943757692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0835ec0c097f0b0800000000000000
+      internalID: -5694924046017003304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48529061a97e5a650800000000000000
+      internalID: 6243651107399738756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f7d1d68997bc040800000000000000
+      internalID: 4668959134272290710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874512e8e8e1d09f0800000000000000
+      internalID: -500710385949518728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0e7e6d4604e5a50800000000000000
+      internalID: 6511712913070743726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb8c1749ed70da00800000000000000
+      internalID: 779261176409000927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a43e605dcccfd0b0800000000000000
+      internalID: -5701613421037996887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b457955893c16b20800000000000000
+      internalID: 3125994675410261170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_17
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25077d3e543c5a8c0800000000000000
+      internalID: -3988567190023999406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6825d017936a850800000000000000
+      internalID: 6387856279189227248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_19
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d59921ca51f9c340800000000000000
+      internalID: 4884700642950092245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6539302f2383070800000000000000
+      internalID: 8086269145967187662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d0d7afc08805050800000000000000
+      internalID: 5787275110494571887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7108c102ab75d4da0800000000000000
+      internalID: -5959010275027025897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad07d5a3e6580a790800000000000000
+      internalID: -7520864669236629286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_24
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7df216636b15de50800000000000000
+      internalID: 6833398123332828538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f6bf85f87f7e60800000000000000
+      internalID: 7962215662287778382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e023620a7ad40db0800000000000000
+      internalID: -4826492683073412887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_27
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88f5ee25599e4f70800000000000000
+      internalID: 9173438082138372235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_28
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032e6da9a456149b0800000000000000
+      internalID: -5097681932106931664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_29
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b8eebba86f4150800000000000000
+      internalID: 5859016727083921512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86a27635e861090800000000000000
+      internalID: -8064101593896032023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11f4bb91c9e34400800000000000000
+      internalID: 307346217341612314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bc59ed7897693a0800000000000000
+      internalID: -6659001374558794883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc67ed4f63299ce0800000000000000
+      internalID: -1398047248366474041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495cc42a43992a410800000000000000
+      internalID: 1486919278325974420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_35
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73a3c8e3d6a35420800000000000000
+      internalID: 2617619237505835900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a7c47bd2063cc10800000000000000
+      internalID: 2072606002985597509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_37
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c372c35593d66b80800000000000000
+      internalID: -8401795416504241213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_38
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981acf82eaac7b110800000000000000
+      internalID: 1276711868743590281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_39
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4b56c91320de50800000000000000
+      internalID: 6831999228330069921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6c1bd1785d8400800000000000000
+      internalID: 328015593898536656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_41
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd93c22117a6f360800000000000000
+      internalID: 7203128346065214925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_42
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925510ea2d7be20d0800000000000000
+      internalID: -3445614549401512663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb6a4443a7c23250800000000000000
+      internalID: 5923015963984948216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_44
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afe753a988ea1b90800000000000000
+      internalID: -7270242970587631709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_45
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277596cd02046a30800000000000000
+      internalID: 4207490210060400422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_46
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bd2d6559144fba0800000000000000
+      internalID: -6056143489243882723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_47
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09c81e43aa9a4a00800000000000000
+      internalID: 741575114836461839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_48
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247696dc15571e400800000000000000
+      internalID: 351691240110647106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_31_Injured weak_49
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bbf541f4c9fe470800000000000000
+      internalID: 8426125291291655028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ccba4f80ac9fc4438fc4f680da2a981
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hani_31_Injured weak_0: 5223069615949753364
+      hani_31_Injured weak_1: -2835061251789046282
+      hani_31_Injured weak_10: 6243651107399738756
+      hani_31_Injured weak_11: 4668959134272290710
+      hani_31_Injured weak_12: -500710385949518728
+      hani_31_Injured weak_13: 6511712913070743726
+      hani_31_Injured weak_14: 779261176409000927
+      hani_31_Injured weak_15: -5701613421037996887
+      hani_31_Injured weak_16: 3125994675410261170
+      hani_31_Injured weak_17: -3988567190023999406
+      hani_31_Injured weak_18: 6387856279189227248
+      hani_31_Injured weak_19: 4884700642950092245
+      hani_31_Injured weak_2: -3372098707982096511
+      hani_31_Injured weak_20: 8086269145967187662
+      hani_31_Injured weak_21: 5787275110494571887
+      hani_31_Injured weak_22: -5959010275027025897
+      hani_31_Injured weak_23: -7520864669236629286
+      hani_31_Injured weak_24: 6833398123332828538
+      hani_31_Injured weak_25: 7962215662287778382
+      hani_31_Injured weak_26: -4826492683073412887
+      hani_31_Injured weak_27: 9173438082138372235
+      hani_31_Injured weak_28: -5097681932106931664
+      hani_31_Injured weak_29: 5859016727083921512
+      hani_31_Injured weak_3: -2470383921194274747
+      hani_31_Injured weak_30: -8064101593896032023
+      hani_31_Injured weak_31: 307346217341612314
+      hani_31_Injured weak_32: -6659001374558794883
+      hani_31_Injured weak_33: -1398047248366474041
+      hani_31_Injured weak_34: 1486919278325974420
+      hani_31_Injured weak_35: 2617619237505835900
+      hani_31_Injured weak_36: 2072606002985597509
+      hani_31_Injured weak_37: -8401795416504241213
+      hani_31_Injured weak_38: 1276711868743590281
+      hani_31_Injured weak_39: 6831999228330069921
+      hani_31_Injured weak_4: 1812578217813805450
+      hani_31_Injured weak_40: 328015593898536656
+      hani_31_Injured weak_41: 7203128346065214925
+      hani_31_Injured weak_42: -3445614549401512663
+      hani_31_Injured weak_43: 5923015963984948216
+      hani_31_Injured weak_44: -7270242970587631709
+      hani_31_Injured weak_45: 4207490210060400422
+      hani_31_Injured weak_46: -6056143489243882723
+      hani_31_Injured weak_47: 741575114836461839
+      hani_31_Injured weak_48: 351691240110647106
+      hani_31_Injured weak_49: 8426125291291655028
+      hani_31_Injured weak_5: -2938644628507881047
+      hani_31_Injured weak_6: 7911568846450421824
+      hani_31_Injured weak_7: -2584034313440950860
+      hani_31_Injured weak_8: -8289790228943757692
+      hani_31_Injured weak_9: -5694924046017003304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

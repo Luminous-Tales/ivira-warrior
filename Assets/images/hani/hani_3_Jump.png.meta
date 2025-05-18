@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 198a0f75cce707d42aaf6c5d82c4fe04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4229715171394887387
+    second: hani_3_Jump_0
+  - first:
+      213: 4223960289350177932
+    second: hani_3_Jump_1
+  - first:
+      213: 7556507287149086429
+    second: hani_3_Jump_2
+  - first:
+      213: 6383944469369184632
+    second: hani_3_Jump_3
+  - first:
+      213: -1667925318512780648
+    second: hani_3_Jump_4
+  - first:
+      213: -7001761081971739948
+    second: hani_3_Jump_5
+  - first:
+      213: 2866953740610775137
+    second: hani_3_Jump_6
+  - first:
+      213: -3957771946818523265
+    second: hani_3_Jump_7
+  - first:
+      213: -5337403369747547955
+    second: hani_3_Jump_8
+  - first:
+      213: -3288084337180794521
+    second: hani_3_Jump_9
+  - first:
+      213: 7708094004470839315
+    second: hani_3_Jump_10
+  - first:
+      213: 4185351706004822029
+    second: hani_3_Jump_11
+  - first:
+      213: 8785469923746625535
+    second: hani_3_Jump_12
+  - first:
+      213: -2285533965845461498
+    second: hani_3_Jump_13
+  - first:
+      213: -6306737106681813928
+    second: hani_3_Jump_14
+  - first:
+      213: 3574365465536225082
+    second: hani_3_Jump_15
+  - first:
+      213: 7466946536825128651
+    second: hani_3_Jump_16
+  - first:
+      213: 1807730543517664045
+    second: hani_3_Jump_17
+  - first:
+      213: -8971600151666122809
+    second: hani_3_Jump_18
+  - first:
+      213: 6032469730242291142
+    second: hani_3_Jump_19
+  - first:
+      213: -5044996780677095564
+    second: hani_3_Jump_20
+  - first:
+      213: -3838435129827901441
+    second: hani_3_Jump_21
+  - first:
+      213: -930706619660430998
+    second: hani_3_Jump_22
+  - first:
+      213: 1428118893589640479
+    second: hani_3_Jump_23
+  - first:
+      213: 5889229431711344438
+    second: hani_3_Jump_24
+  - first:
+      213: 8420489748298646652
+    second: hani_3_Jump_25
+  - first:
+      213: -8002096537166422832
+    second: hani_3_Jump_26
+  - first:
+      213: -7969155319134681164
+    second: hani_3_Jump_27
+  - first:
+      213: 3034793925108246182
+    second: hani_3_Jump_28
+  - first:
+      213: -479672206611345558
+    second: hani_3_Jump_29
+  - first:
+      213: 23466754319176880
+    second: hani_3_Jump_30
+  - first:
+      213: 1963186350015314377
+    second: hani_3_Jump_31
+  - first:
+      213: -6261500623694776025
+    second: hani_3_Jump_32
+  - first:
+      213: 5510081242401024910
+    second: hani_3_Jump_33
+  - first:
+      213: 1391753329118985956
+    second: hani_3_Jump_34
+  - first:
+      213: 2803293404040506134
+    second: hani_3_Jump_35
+  - first:
+      213: 7388655404634651240
+    second: hani_3_Jump_36
+  - first:
+      213: 8886036529147828466
+    second: hani_3_Jump_37
+  - first:
+      213: -5539045509376673401
+    second: hani_3_Jump_38
+  - first:
+      213: -1326961344297856344
+    second: hani_3_Jump_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hani_3_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5216deb26780d45c0800000000000000
+      internalID: -4229715171394887387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d210f0858e9a30800000000000000
+      internalID: 4223960289350177932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd60c21775b1ed860800000000000000
+      internalID: 7556507287149086429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871e19adba3589850800000000000000
+      internalID: 6383944469369184632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a5a2682c65ad8e0800000000000000
+      internalID: -1667925318512780648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d27be2946fb4de90800000000000000
+      internalID: -7001761081971739948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1682590cc3779c720800000000000000
+      internalID: 2866953740610775137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f20ef226b2319c0800000000000000
+      internalID: -3957771946818523265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8793bf9ebbde5b0800000000000000
+      internalID: -5337403369747547955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76120d267b06e52d0800000000000000
+      internalID: -3288084337180794521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3187dc768a6a8fa60800000000000000
+      internalID: 7708094004470839315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d081e70a33b551a30800000000000000
+      internalID: 4185351706004822029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7bbc529524ce970800000000000000
+      internalID: 8785469923746625535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60601b3a7f62840e0800000000000000
+      internalID: -2285533965845461498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854a4781408f978a0800000000000000
+      internalID: -6306737106681813928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fd5bef372ba9130800000000000000
+      internalID: 3574365465536225082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc68b4c405cef9760800000000000000
+      internalID: 7466946536825128651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_17
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238efff959561910800000000000000
+      internalID: 1807730543517664045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf991512397e7380800000000000000
+      internalID: -8971600151666122809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_19
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5636d1243a7b350800000000000000
+      internalID: 6032469730242291142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f90c258229cf9b0800000000000000
+      internalID: -5044996780677095564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff3a3916932bbac0800000000000000
+      internalID: -3838435129827901441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611901b2477513f0800000000000000
+      internalID: -930706619660430998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f153f653192b1d310800000000000000
+      internalID: 1428118893589640479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_24
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6372ee537febab150800000000000000
+      internalID: 5889229431711344438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74c82affc69bd470800000000000000
+      internalID: 8420489748298646652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcdfcba897d2f090800000000000000
+      internalID: -8002096537166422832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_27
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7001ba57fd76190800000000000000
+      internalID: -7969155319134681164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_28
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a62790fef0cd1a20800000000000000
+      internalID: 3034793925108246182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_29
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f8d446bacd759f0800000000000000
+      internalID: -479672206611345558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4d93383ee535000800000000000000
+      internalID: 23466754319176880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9fe8c7593ae3b10800000000000000
+      internalID: 1963186350015314377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72939cb8b5eaa19a0800000000000000
+      internalID: -6261500623694776025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b2bd042bdb77c40800000000000000
+      internalID: 5510081242401024910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeba1d6740805310800000000000000
+      internalID: 1391753329118985956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_35
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ba70d9f7c47e620800000000000000
+      internalID: 2803293404040506134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ab40991f6c98660800000000000000
+      internalID: 7388655404634651240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_37
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8500d942b815b70800000000000000
+      internalID: 8886036529147828466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_38
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78971e2d47b5123b0800000000000000
+      internalID: -5539045509376673401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_3_Jump_39
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2937a10bfa59de0800000000000000
+      internalID: -1326961344297856344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f8d0164eddaf31f47a72ddaaa768399f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hani_3_Jump_0: -4229715171394887387
+      hani_3_Jump_1: 4223960289350177932
+      hani_3_Jump_10: 7708094004470839315
+      hani_3_Jump_11: 4185351706004822029
+      hani_3_Jump_12: 8785469923746625535
+      hani_3_Jump_13: -2285533965845461498
+      hani_3_Jump_14: -6306737106681813928
+      hani_3_Jump_15: 3574365465536225082
+      hani_3_Jump_16: 7466946536825128651
+      hani_3_Jump_17: 1807730543517664045
+      hani_3_Jump_18: -8971600151666122809
+      hani_3_Jump_19: 6032469730242291142
+      hani_3_Jump_2: 7556507287149086429
+      hani_3_Jump_20: -5044996780677095564
+      hani_3_Jump_21: -3838435129827901441
+      hani_3_Jump_22: -930706619660430998
+      hani_3_Jump_23: 1428118893589640479
+      hani_3_Jump_24: 5889229431711344438
+      hani_3_Jump_25: 8420489748298646652
+      hani_3_Jump_26: -8002096537166422832
+      hani_3_Jump_27: -7969155319134681164
+      hani_3_Jump_28: 3034793925108246182
+      hani_3_Jump_29: -479672206611345558
+      hani_3_Jump_3: 6383944469369184632
+      hani_3_Jump_30: 23466754319176880
+      hani_3_Jump_31: 1963186350015314377
+      hani_3_Jump_32: -6261500623694776025
+      hani_3_Jump_33: 5510081242401024910
+      hani_3_Jump_34: 1391753329118985956
+      hani_3_Jump_35: 2803293404040506134
+      hani_3_Jump_36: 7388655404634651240
+      hani_3_Jump_37: 8886036529147828466
+      hani_3_Jump_38: -5539045509376673401
+      hani_3_Jump_39: -1326961344297856344
+      hani_3_Jump_4: -1667925318512780648
+      hani_3_Jump_5: -7001761081971739948
+      hani_3_Jump_6: 2866953740610775137
+      hani_3_Jump_7: -3957771946818523265
+      hani_3_Jump_8: -5337403369747547955
+      hani_3_Jump_9: -3288084337180794521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

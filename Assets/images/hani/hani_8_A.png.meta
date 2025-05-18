@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: d0b4e5c0304d5e247971475f53840a13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2863178796184589117
+    second: hani_8_A_0
+  - first:
+      213: -4580099883208419877
+    second: hani_8_A_1
+  - first:
+      213: -964132447422883768
+    second: hani_8_A_2
+  - first:
+      213: 6357946431961621575
+    second: hani_8_A_3
+  - first:
+      213: 3161093592148115787
+    second: hani_8_A_4
+  - first:
+      213: 6676572805996424584
+    second: hani_8_A_5
+  - first:
+      213: -5652816378587612544
+    second: hani_8_A_6
+  - first:
+      213: 7686632553324848855
+    second: hani_8_A_7
+  - first:
+      213: 5830475737465029815
+    second: hani_8_A_8
+  - first:
+      213: 5467859794647318817
+    second: hani_8_A_9
+  - first:
+      213: -1439193306355197957
+    second: hani_8_A_10
+  - first:
+      213: 7398880852274702440
+    second: hani_8_A_11
+  - first:
+      213: -608401861020778145
+    second: hani_8_A_12
+  - first:
+      213: -8879554033790091385
+    second: hani_8_A_13
+  - first:
+      213: -4358895394156539954
+    second: hani_8_A_14
+  - first:
+      213: 238743628928055303
+    second: hani_8_A_15
+  - first:
+      213: 869613737694220170
+    second: hani_8_A_16
+  - first:
+      213: 2007518662354705373
+    second: hani_8_A_17
+  - first:
+      213: 5107868213203877261
+    second: hani_8_A_18
+  - first:
+      213: -6116270458045286583
+    second: hani_8_A_19
+  - first:
+      213: -4108968989463330719
+    second: hani_8_A_20
+  - first:
+      213: -1401103291680275578
+    second: hani_8_A_21
+  - first:
+      213: -8588757006507792195
+    second: hani_8_A_22
+  - first:
+      213: 3872670303267023162
+    second: hani_8_A_23
+  - first:
+      213: -7105902360405562018
+    second: hani_8_A_24
+  - first:
+      213: -2746360189932328807
+    second: hani_8_A_25
+  - first:
+      213: 228853188683023997
+    second: hani_8_A_26
+  - first:
+      213: 7404185732054504476
+    second: hani_8_A_27
+  - first:
+      213: -5946359581348520677
+    second: hani_8_A_28
+  - first:
+      213: -7908123266206669722
+    second: hani_8_A_29
+  - first:
+      213: 4255835402537094684
+    second: hani_8_A_30
+  - first:
+      213: 4332212354770595484
+    second: hani_8_A_31
+  - first:
+      213: -982975903915993595
+    second: hani_8_A_32
+  - first:
+      213: -5500503498861439315
+    second: hani_8_A_33
+  - first:
+      213: -5064996086287555849
+    second: hani_8_A_34
+  - first:
+      213: 1888855953607727089
+    second: hani_8_A_35
+  - first:
+      213: 2770509741562824219
+    second: hani_8_A_36
+  - first:
+      213: 4248053791276544798
+    second: hani_8_A_37
+  - first:
+      213: -162004160979153373
+    second: hani_8_A_38
+  - first:
+      213: 9020784542906216304
+    second: hani_8_A_39
+  - first:
+      213: -9007963630580962997
+    second: hani_8_A_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hani_8_A_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccacfcfd02f348d0800000000000000
+      internalID: -2863178796184589117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5dd813c673070c0800000000000000
+      internalID: -4580099883208419877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8485ee2b5a6be92f0800000000000000
+      internalID: -964132447422883768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e8021896fb3850800000000000000
+      internalID: 6357946431961621575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4180c5bfd57edb20800000000000000
+      internalID: 3161093592148115787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d2372d793f7ac50800000000000000
+      internalID: 6676572805996424584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a76cd14792d81b0800000000000000
+      internalID: -5652816378587612544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6a1ebe4976caa60800000000000000
+      internalID: 7686632553324848855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_8
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b40323cac20ae050800000000000000
+      internalID: 5830475737465029815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1210895638db1eb40800000000000000
+      internalID: 5467859794647318817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf714932055f60ce0800000000000000
+      internalID: -1439193306355197957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e5472fea1ea660800000000000000
+      internalID: 7398880852274702440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f518b291bb58e87f0800000000000000
+      internalID: -608401861020778145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ffd04f6ac75c480800000000000000
+      internalID: -8879554033790091385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf8632cbb71283c0800000000000000
+      internalID: -4358895394156539954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708f4aac010305300800000000000000
+      internalID: 238743628928055303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4017461d711c00800000000000000
+      internalID: 869613737694220170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_17
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb9e9d46932cdb10800000000000000
+      internalID: 2007518662354705373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8db687c31bc2e640800000000000000
+      internalID: 5107868213203877261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_19
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947befd7c64ae1ba0800000000000000
+      internalID: -6116270458045286583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16041fd69720af6c0800000000000000
+      internalID: -4108968989463330719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68344c5caf74e8ce0800000000000000
+      internalID: -1401103291680275578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8a4fcf10b9ec880800000000000000
+      internalID: -8588757006507792195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a396f6e5f1d7eb530800000000000000
+      internalID: 3872670303267023162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_24
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5daa6fa373c26d90800000000000000
+      internalID: -7105902360405562018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_25
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982fc545f7f2e9d0800000000000000
+      internalID: -2746360189932328807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76ca2933cc0d2300800000000000000
+      internalID: 228853188683023997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_27
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14df1ab1b3f0c660800000000000000
+      internalID: 7404185732054504476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_28
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d1bf647794a7da0800000000000000
+      internalID: -5946359581348520677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_29
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1085
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664efb5d9c3b04290800000000000000
+      internalID: -7908123266206669722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e41ce00c3cf0b30800000000000000
+      internalID: 4255835402537094684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee8a10f2c1f1c30800000000000000
+      internalID: 4332212354770595484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50691589f94cb52f0800000000000000
+      internalID: -982975903915993595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da61290f5394aa3b0800000000000000
+      internalID: -5500503498861439315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2261025e485b9b0800000000000000
+      internalID: -5064996086287555849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_35
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f79ba27b70963a10800000000000000
+      internalID: 1888855953607727089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b168c906ee3d27620800000000000000
+      internalID: 2770509741562824219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_37
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e133acf7a6e14fa30800000000000000
+      internalID: 4248053791276544798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_38
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ec3bce21270cdf0800000000000000
+      internalID: -162004160979153373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_39
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 930
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f62436fb3403d70800000000000000
+      internalID: 9020784542906216304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_8_A_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b496591edc84df280800000000000000
+      internalID: -9007963630580962997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a4053be5033cdad4c98b3a43aa566f74
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hani_8_A_0: -2863178796184589117
+      hani_8_A_1: -4580099883208419877
+      hani_8_A_10: -1439193306355197957
+      hani_8_A_11: 7398880852274702440
+      hani_8_A_12: -608401861020778145
+      hani_8_A_13: -8879554033790091385
+      hani_8_A_14: -4358895394156539954
+      hani_8_A_15: 238743628928055303
+      hani_8_A_16: 869613737694220170
+      hani_8_A_17: 2007518662354705373
+      hani_8_A_18: 5107868213203877261
+      hani_8_A_19: -6116270458045286583
+      hani_8_A_2: -964132447422883768
+      hani_8_A_20: -4108968989463330719
+      hani_8_A_21: -1401103291680275578
+      hani_8_A_22: -8588757006507792195
+      hani_8_A_23: 3872670303267023162
+      hani_8_A_24: -7105902360405562018
+      hani_8_A_25: -2746360189932328807
+      hani_8_A_26: 228853188683023997
+      hani_8_A_27: 7404185732054504476
+      hani_8_A_28: -5946359581348520677
+      hani_8_A_29: -7908123266206669722
+      hani_8_A_3: 6357946431961621575
+      hani_8_A_30: 4255835402537094684
+      hani_8_A_31: 4332212354770595484
+      hani_8_A_32: -982975903915993595
+      hani_8_A_33: -5500503498861439315
+      hani_8_A_34: -5064996086287555849
+      hani_8_A_35: 1888855953607727089
+      hani_8_A_36: 2770509741562824219
+      hani_8_A_37: 4248053791276544798
+      hani_8_A_38: -162004160979153373
+      hani_8_A_39: 9020784542906216304
+      hani_8_A_4: 3161093592148115787
+      hani_8_A_40: -9007963630580962997
+      hani_8_A_5: 6676572805996424584
+      hani_8_A_6: -5652816378587612544
+      hani_8_A_7: 7686632553324848855
+      hani_8_A_8: 5830475737465029815
+      hani_8_A_9: 5467859794647318817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

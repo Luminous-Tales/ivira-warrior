@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: b066a65047edb49479068218c5acdeb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6730538293216847767
+    second: hani_2_Dash_0
+  - first:
+      213: -2757960644119227100
+    second: hani_2_Dash_1
+  - first:
+      213: 221820440265818557
+    second: hani_2_Dash_2
+  - first:
+      213: -3902242226933617897
+    second: hani_2_Dash_3
+  - first:
+      213: 6865253618213483247
+    second: hani_2_Dash_4
+  - first:
+      213: 8314597459877672937
+    second: hani_2_Dash_5
+  - first:
+      213: 6331946445235690657
+    second: hani_2_Dash_6
+  - first:
+      213: 641474945436669439
+    second: hani_2_Dash_7
+  - first:
+      213: 7730105273141707058
+    second: hani_2_Dash_8
+  - first:
+      213: 640189865571432776
+    second: hani_2_Dash_9
+  - first:
+      213: -7643533568534244307
+    second: hani_2_Dash_10
+  - first:
+      213: 5577684656569553979
+    second: hani_2_Dash_11
+  - first:
+      213: -3414345251824681344
+    second: hani_2_Dash_12
+  - first:
+      213: -4331796141936625911
+    second: hani_2_Dash_13
+  - first:
+      213: -4667623730932625373
+    second: hani_2_Dash_14
+  - first:
+      213: 3910169566513605989
+    second: hani_2_Dash_15
+  - first:
+      213: 1417152532580383466
+    second: hani_2_Dash_16
+  - first:
+      213: 270374080540025784
+    second: hani_2_Dash_17
+  - first:
+      213: 4473209132984183113
+    second: hani_2_Dash_18
+  - first:
+      213: -1331863713137482532
+    second: hani_2_Dash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hani_2_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797aa52faeca76d50800000000000000
+      internalID: 6730538293216847767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42514ce0861c9b9d0800000000000000
+      internalID: -2757960644119227100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db107f1e380141300800000000000000
+      internalID: 221820440265818557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ba71c9e5378d9c0800000000000000
+      internalID: -3902242226933617897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe27496cac7464f50800000000000000
+      internalID: 6865253618213483247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7bf5e4652636370800000000000000
+      internalID: 8314597459877672937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac121d6eb79fd750800000000000000
+      internalID: 6331946445235690657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5d01f601af6e800800000000000000
+      internalID: 641474945436669439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2314cf14ac9d64b60800000000000000
+      internalID: 7730105273141707058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1395
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b0367a4962e800800000000000000
+      internalID: 640189865571432776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d241eb277b6bce590800000000000000
+      internalID: -7643533568534244307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3499ffa4aae76d40800000000000000
+      internalID: 5577684656569553979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08eb27c551fcd90d0800000000000000
+      internalID: -3414345251824681344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907b5781c5e52e3c0800000000000000
+      internalID: -4331796141936625911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320d39462f4493fb0800000000000000
+      internalID: -4667623730932625373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d2697f086b34630800000000000000
+      internalID: 3910169566513605989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeabff058bcbaa310800000000000000
+      internalID: 1417152532580383466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_17
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3af033bcf80c300800000000000000
+      internalID: 270374080540025784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9492e81a108041e30800000000000000
+      internalID: 4473209132984183113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hani_2_Dash_19
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1240
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd425396205448de0800000000000000
+      internalID: -1331863713137482532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d13ecfae2bb2a145bcebf3e4cd8d5c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hani_2_Dash_0: 6730538293216847767
+      hani_2_Dash_1: -2757960644119227100
+      hani_2_Dash_10: -7643533568534244307
+      hani_2_Dash_11: 5577684656569553979
+      hani_2_Dash_12: -3414345251824681344
+      hani_2_Dash_13: -4331796141936625911
+      hani_2_Dash_14: -4667623730932625373
+      hani_2_Dash_15: 3910169566513605989
+      hani_2_Dash_16: 1417152532580383466
+      hani_2_Dash_17: 270374080540025784
+      hani_2_Dash_18: 4473209132984183113
+      hani_2_Dash_19: -1331863713137482532
+      hani_2_Dash_2: 221820440265818557
+      hani_2_Dash_3: -3902242226933617897
+      hani_2_Dash_4: 6865253618213483247
+      hani_2_Dash_5: 8314597459877672937
+      hani_2_Dash_6: 6331946445235690657
+      hani_2_Dash_7: 641474945436669439
+      hani_2_Dash_8: 7730105273141707058
+      hani_2_Dash_9: 640189865571432776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
