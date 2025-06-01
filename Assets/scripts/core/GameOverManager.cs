@@ -34,8 +34,16 @@ public class GameOverManager : MonoBehaviour
         pointsText.text = points.ToString();
         uiButtons.SetActive(false);
         hudPanel.SetActive(false);
-
+        Save();
         StartCoroutine(AnimateScore(total));
+    }
+
+    private void Save()
+    {
+        SaveManager.Save(new()
+        {
+            scoreTotal = PointsManager.instance.GetPoints(),
+        });
     }
 
     IEnumerator AnimateScore(int finalScore)

@@ -1,21 +1,30 @@
 {
-    "historic":{
-        "0":{
-            "score": 1000,
-            "time":101010,
-            "meters":100,
-            "obstacles":30
+    "scoreTotal": 1250,
+    "maxLife": 5,
+    "currentWeapon": 1,
+    "weaponsUnlocked": [
+        0,
+        1
+    ],
+    "market": [
+        {
+            "image": 0,
+            "price":100,
+            "description": "Life +1",
+            "unlocked": false
         },
-        "1":{
-            "score": 1000,
-            "time":101010,
-            "meters":100,
-            "obstacles":30
+        {
+            "image": 1,
+            "price": 100,
+            "description": "Weapon",
+            "unlocked": false
         }
-    },
-    "scoreTotal":10000,
-    "life": 5,
-    "character":0,
-    "weapon":0,
-    "market":[0,0,0,0]
+    ],
+    "historic": [
+        {
+            "score": 1000,
+            "time": 101010,
+            "meters": 120
+        }
+    ]
 }

@@ -5,7 +5,6 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     public static PlayerController Instance;
-    private SpriteRenderer sr;
     private Rigidbody2D rb;
     private Animator anim;
     private GameObject hitBoxAttack;
@@ -17,7 +16,6 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         hitBoxAttack = GameObject.FindGameObjectWithTag("hitbox");
-        sr = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
     }
@@ -85,8 +83,9 @@ public class PlayerController : MonoBehaviour
         if (isGrounded && !isActing)
         {
             isGrounded = false;
-            anim.SetBool("jumping", true);
-            rb.AddForce(Vector2.up * jumpForce);
+            anim.SetBool("jump", true);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            /*rb.AddForce(Vector2.up * jumpForce);*/
         }
     }
 
@@ -113,7 +112,7 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator TakeDamage()
     {
-        anim.SetBool("hurt", true);
+        anim.SetTrigger("hurt");
         gameObject.tag = "PlayerHurt";
         health -= 1;
 
@@ -123,20 +122,9 @@ public class PlayerController : MonoBehaviour
         }
 
         rb.gravityScale = 5;
-        yield return SwitchColor();
+        yield return new WaitForSeconds(1f);
         rb.gravityScale = 3;
         gameObject.tag = "Player";
-    }
-
-    IEnumerator SwitchColor()
-    {
-        for (int i = 0; i < 4; i++)
-        {
-            sr.color = Color.red;
-            yield return new WaitForSeconds(0.2f);
-            sr.color = Color.white;
-            yield return new WaitForSeconds(0.2f);
-        }
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -144,7 +132,7 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("ground"))
         {
             isGrounded = true;
-            anim.SetBool("jumping", false);
+            anim.SetBool("jump", false);
         }
     }
 
