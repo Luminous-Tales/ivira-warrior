@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
 
     private VelocityController velocityController;
     public bool isGameOver = false;
-    private int fps = 30;
+
     private void Awake()
     {
         if (Instance == null) Instance = this;
@@ -29,18 +29,6 @@ public class GameManager : MonoBehaviour
             yield return null;
         }
         velocityController.CurrentSpeed = 0;
-    }
-
-    public void AlternateFPS()
-    {
-        if (fps == 30)
-        {
-            Application.targetFrameRate = 60;
-        }
-        else
-        {
-            Application.targetFrameRate = 30;
-        }
     }
 }
 

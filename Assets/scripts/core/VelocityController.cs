@@ -13,7 +13,6 @@ public class VelocityController : MonoBehaviour
     public float CurrentSpeed { get; set; }
 
     [Header("Referências")]
-    public Animator playerAnimator;
     public TextMeshProUGUI textMeters;
 
     private float totalDistance;
@@ -33,8 +32,6 @@ public class VelocityController : MonoBehaviour
     {
         if (GameManager.Instance != null && !GameManager.Instance.isGameOver)
         {
-            Accelerate();
-            UpdateAnimatorSpeed();
             UpdateDistance();
         }
     }
@@ -42,15 +39,6 @@ public class VelocityController : MonoBehaviour
     private void Accelerate()
     {
         CurrentSpeed = Mathf.Min(CurrentSpeed + accelerationRate * Time.deltaTime, maxSpeed);
-    }
-
-    private void UpdateAnimatorSpeed()
-    {
-        if (playerAnimator != null)
-        {
-            float speedMultiplier = Mathf.Clamp(CurrentSpeed / baseSpeed, 1f, 2f);
-            playerAnimator.speed = speedMultiplier;
-        }
     }
 
     private void UpdateDistance()

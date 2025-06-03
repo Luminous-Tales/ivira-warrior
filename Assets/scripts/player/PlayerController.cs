@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -12,6 +13,22 @@ public class PlayerController : MonoBehaviour
     public int health = 7;
     private bool isActing;
     private bool isGrounded = true;
+    public List<Sprite> weaponSprites;
+    public SpriteRenderer weaponRenderer;
+    public AudioClip audioJump;
+    public AudioClip audioDamage;
+    public AudioClip audioSlash;
+    public AudioClip audioDodge;
+    private AudioSource audioSource;
+
+    private void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+        int equippedId = SaveManager.GetEquippedWeapon();
+        weaponRenderer.sprite = weaponSprites[equippedId];
+        health += SaveManager.GetExtraLives(); // 1 vida base + extras
+        Debug.Log($"Total de vidas: {health}");
+    }
 
     void Start()
     {
@@ -83,6 +100,8 @@ public class PlayerController : MonoBehaviour
         if (isGrounded && !isActing)
         {
             isGrounded = false;
+            audioSource.clip = audioJump;
+            audioSource.Play();
             anim.SetBool("jump", true);
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             /*rb.AddForce(Vector2.up * jumpForce);*/
@@ -94,6 +113,8 @@ public class PlayerController : MonoBehaviour
         if (isActing)
             yield break;
         isActing = true;
+        audioSource.clip = audioSlash;
+        audioSource.Play();
         anim.SetTrigger("attack");
 
         yield return new WaitForSeconds(0.5f);
@@ -105,6 +126,8 @@ public class PlayerController : MonoBehaviour
         if (isActing)
             yield break;
         isActing = true;
+        audioSource.clip = audioDodge;
+        audioSource.Play();
         anim.SetTrigger("dodge");
         yield return new WaitForSeconds(1.5f);
         isActing = false;
@@ -112,6 +135,8 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator TakeDamage()
     {
+        audioSource.clip = audioDamage;
+        audioSource.Play();
         anim.SetTrigger("hurt");
         gameObject.tag = "PlayerHurt";
         health -= 1;
@@ -122,9 +147,35 @@ public class PlayerController : MonoBehaviour
         }
 
         rb.gravityScale = 5;
+        FlashRed(1f);
         yield return new WaitForSeconds(1f);
         rb.gravityScale = 3;
         gameObject.tag = "Player";
+    }
+
+    public void FlashRed(float duration)
+    {
+        StartCoroutine(FlashColorCoroutine(Color.red, duration));
+    }
+
+    private IEnumerator FlashColorCoroutine(Color targetColor, float duration)
+    {
+        var renderers = GetComponentsInChildren<SpriteRenderer>();
+
+        // Salva as cores originais
+        Color[] originalColors = new Color[renderers.Length];
+        for (int i = 0; i < renderers.Length; i++)
+            originalColors[i] = renderers[i].color;
+
+        // Aplica a cor alvo
+        foreach (var r in renderers)
+            r.color = targetColor;
+
+        yield return new WaitForSeconds(duration);
+
+        // Restaura
+        for (int i = 0; i < renderers.Length; i++)
+            renderers[i].color = originalColors[i];
     }
 
     void OnCollisionEnter2D(Collision2D collision)

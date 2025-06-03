@@ -1,110 +1,124 @@
 using System.IO;
 using UnityEngine;
 
-[SerializeField]
-public class DadosDoJogo
-{
-    public int scoreTotal = 0;
-}
-
 public class SaveManager : MonoBehaviour
 {
-    private static string _fileName = "save.json";
+    private static readonly string _fileName = "gamedata.json";
+    private static SaveData _cachedData;
+    private const int MaxExtraLives = 3;
 
     private static string GetSavePath()
     {
-        return Application.persistentDataPath + "/" + _fileName;
+        return Path.Combine(Application.persistentDataPath, _fileName);
     }
 
-    public static void SavePoints(RunData data)
+    public static SaveData GetData()
     {
-        string json = JsonUtility.ToJson(data, true);
-        File.WriteAllText(GetSavePath(), json);
-        Debug.Log("Save realizado em: " + GetSavePath());
+        _cachedData ??= Load();
+        return _cachedData;
     }
 
-    public static void Save(SaveData data)
+    public static void SaveScore(int score)
     {
-        string json = JsonUtility.ToJson(data, true);
-        File.WriteAllText(GetSavePath(), json);
-        Debug.Log("Save realizado em: " + GetSavePath());
+        var data = GetData();
+        data.currentScore = score;
+        if (score > data.bestScore)
+            data.bestScore = score;
+        Save(data);
     }
 
-    public static SaveData Load()
+    public static bool TryBuyItem(int itemId, int price)
+    {
+        var data = GetData();
+
+        if (data.unlockedItems.Contains(itemId) || data.currentScore < price)
+            return false;
+
+        data.unlockedItems.Add(itemId);
+        data.currentScore -= price;
+        Save(data);
+        return true;
+    }
+
+    public static bool TryBuyLife(int price)
+    {
+        var data = GetData();
+
+        if (data.currentScore < price)
+            return false;
+
+        if (data.extraLives >= MaxExtraLives)
+            return false;
+
+        data.currentScore -= price;
+        data.extraLives++;
+        Save(data);
+        return true;
+    }
+
+
+    public static int GetExtraLives() => GetData().extraLives;
+
+    public static void SetEquippedWeapon(int weaponId)
+    {
+        var data = GetData();
+        data.equippedWeaponId = weaponId;
+        Save(data);
+    }
+
+    public static int GetEquippedWeapon()
+    {
+        return GetData().equippedWeaponId;
+    }
+
+    public static bool IsItemUnlocked(int itemId)
+    {
+        return GetData().unlockedItems.Contains(itemId);
+    }
+
+    private static void Save(SaveData data)
+    {
+        try
+        {
+            string json = JsonUtility.ToJson(data, true);
+            File.WriteAllText(GetSavePath(), json);
+            _cachedData = data; // Atualiza cache
+            Debug.Log($"Dados salvos: Score={data.currentScore}, Best={data.bestScore}");
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError($"Erro ao salvar: {e.Message}");
+        }
+    }
+
+    private static SaveData Load()
     {
         string path = GetSavePath();
         if (File.Exists(path))
         {
-            string json = File.ReadAllText(path);
-            return JsonUtility.FromJson<SaveData>(json);
+            try
+            {
+                string json = File.ReadAllText(path);
+                return JsonUtility.FromJson<SaveData>(json);
+            }
+            catch (System.Exception e)
+            {
+                Debug.LogError($"Erro ao carregar save: {e.Message}");
+            }
         }
-        else
-        {
-            Debug.Log("Nenhum save encontrado. Criando novo.");
-            return new SaveData();
-        }
-    }
-    public static RunData LoadPoints()
-    {
-        string path = GetSavePath();
-        if (File.Exists(path))
-        {
-            string json = File.ReadAllText(path);
-            return JsonUtility.FromJson<RunData>(json);
-        }
-        else
-        {
-            Debug.Log("Nenhum save encontrado. Criando novo.");
-            return new RunData();
-        }
+
+        Debug.Log("Criando novo arquivo de save");
+        return new SaveData();
     }
 
     public static void DeleteSave()
     {
         string path = GetSavePath();
         if (File.Exists(path))
+        {
             File.Delete(path);
-    }
-
-    // Métodos de compra de itens:
-    public static bool ComprarArma(int id, int preco)
-    {
-        var data = Load();
-        if (data.weaponsUnlocked.Contains(id)) return false;
-        if (data.scoreTotal < preco) return false;
-
-        data.weaponsUnlocked.Add(id);
-        data.scoreTotal -= preco;
-        data.currentWeapon = id;
-        // marca no market
-        if (id >= 0 && id < data.market.Count)
-            data.market[id].unlocked = true;
-
-        Save(data);
-        return true;
-    }
-
-    public static bool ComprarVida(int preco, int quantidade)
-    {
-        var data = Load();
-        if (data.scoreTotal < preco) return false;
-
-        data.maxLife += quantidade;
-        data.scoreTotal -= preco;
-        Save(data);
-        return true;
-    }
-
-    public static bool ComprarPersonagem(int id, int preco)
-    {
-        var data = Load();
-        if (data.charactersUnlocked.Contains(id)) return false;
-        if (data.scoreTotal < preco) return false;
-
-        data.charactersUnlocked.Add(id);
-        data.scoreTotal -= preco;
-        data.currentCharacter = id;
-        Save(data);
-        return true;
+            _cachedData = null;
+            Debug.Log("Save deletado");
+        }
     }
 }
