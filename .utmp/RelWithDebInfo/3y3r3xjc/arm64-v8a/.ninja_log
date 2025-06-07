@@ -1,0 +1,23 @@
+# ninja log v5
+11	1712	7710271092096196	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9c5397143909cacb
+84	313	7710271078199185	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	db6039891950f175
+315	543	7710271080358375	C:/Users/User/Documents/gitHub/jogoVasco/ivira-warrior/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3y3r3xjc/obj/arm64-v8a/libswappywrapper.so	872db9fab2c6d358
+29	1309	7710271088122474	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ca352951ee1531e5
+1	1468	7710271089762820	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bae326a26ceee16e
+60	1338	7710271088409755	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d3e14f42bb50085e
+39	1344	7710271088480066	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	90ee2c15266649cc
+71	1410	7710271089174195	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b3d2613877459881
+19	1347	7710271088490067	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	cb9c6b73260f5601
+49	1581	7710271090878686	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cbba11989c27632f
+1713	1875	7710271093779543	C:/Users/User/Documents/gitHub/jogoVasco/ivira-warrior/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3y3r3xjc/obj/arm64-v8a/libgame.so	9a761488ad26719
+306	568	7710405454802687	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	db6039891950f175
+569	859	7710405457591177	C:/Users/User/Documents/gitHub/jogoVasco/ivira-warrior/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3y3r3xjc/obj/arm64-v8a/libswappywrapper.so	872db9fab2c6d358
+270	1457	7710405463610449	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ca352951ee1531e5
+254	1475	7710405463837641	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	cb9c6b73260f5601
+288	1483	7710405463899630	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d3e14f42bb50085e
+262	1488	7710405463980177	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	90ee2c15266649cc
+296	1548	7710405464570868	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b3d2613877459881
+246	1597	7710405465053814	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bae326a26ceee16e
+280	1688	7710405465969284	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cbba11989c27632f
+11	1802	7710405467089682	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9c5397143909cacb
+1803	1945	7710405468494465	C:/Users/User/Documents/gitHub/jogoVasco/ivira-warrior/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3y3r3xjc/obj/arm64-v8a/libgame.so	9a761488ad26719
