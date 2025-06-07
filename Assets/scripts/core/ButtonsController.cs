@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class ButtonsController : MonoBehaviour
 {
-
     public GameObject canvaMenu;
     public GameObject canvaConfig;
 

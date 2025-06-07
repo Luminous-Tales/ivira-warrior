@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\projetos\\ivira_warriror\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|d:\\projetos\\ivira_warriror\\assets\\scripts\\sound\\audiosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|D:\\projetos\\ivira_warriror\\assets\\scripts\\core\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|d:\\projetos\\ivira_warriror\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|d:\\projetos\\ivira_warriror\\assets\\scripts\\core\\buttonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\buttonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|D:\\projetos\\ivira_warriror\\assets\\scripts\\sound\\audiosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sound\\audiosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|d:\\projetos\\ivira_warriror\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|D:\\projetos\\ivira_warriror\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|D:\\projetos\\ivira_warriror\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|D:\\projetos\\ivira_warriror\\assets\\scripts\\points\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\points\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|D:\\projetos\\ivira_warriror\\assets\\scripts\\hud\\healtbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\healtbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|D:\\projetos\\ivira_warriror\\assets\\scripts\\core\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B87E4C4-3868-EF6F-77B7-58D8A10327AD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,7 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ButtonsController.cs",
+              "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\core\\ButtonsController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\core\\ButtonsController.cs",
+              "ToolTip": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\core\\ButtonsController.cs",
+              "RelativeToolTip": "Assets\\scripts\\core\\ButtonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:37:22.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AudioSettings.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\sound\\AudioSettings.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\sound\\AudioSettings.cs",
@@ -122,12 +139,11 @@
               "RelativeToolTip": "Assets\\scripts\\sound\\AudioSettings.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAmwBUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T04:47:00.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T04:47:00.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ShopTabs.uss",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\UI Toolkit\\ShopTabs.uss",
               "RelativeDocumentMoniker": "Assets\\UI Toolkit\\ShopTabs.uss",
@@ -138,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PointType.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\points\\PointType.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\points\\PointType.cs",
@@ -150,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "HitBoxAttack.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\player\\HitBoxAttack.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\player\\HitBoxAttack.cs",
@@ -162,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ObstacleMovement.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\obstacles\\ObstacleMovement.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\obstacles\\ObstacleMovement.cs",
@@ -174,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "HealtBar.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\hud\\HealtBar.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\hud\\HealtBar.cs",
@@ -186,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PointsManager.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\points\\PointsManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\points\\PointsManager.cs",
@@ -198,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "SaveManager.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\save\\SaveManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\save\\SaveManager.cs",
@@ -210,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SaveData.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\save\\SaveData.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\save\\SaveData.cs",
@@ -222,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ItemSlot.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\market\\ItemSlot.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\market\\ItemSlot.cs",
@@ -234,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MarketController.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\market\\MarketController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\market\\MarketController.cs",
@@ -246,31 +262,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\core\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\core\\GameManager.cs",
               "ToolTip": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\core\\GameManager.cs",
               "RelativeToolTip": "Assets\\scripts\\core\\GameManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:28:59.433Z"
+              "WhenOpened": "2025-05-19T17:28:59.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "GameOverManager.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\core\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\core\\GameOverManager.cs",
               "ToolTip": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\core\\GameOverManager.cs",
               "RelativeToolTip": "Assets\\scripts\\core\\GameOverManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwE0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T14:34:53.855Z"
+              "WhenOpened": "2025-06-01T14:34:53.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\projetos\\ivira_warriror\\Assets\\scripts\\player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\player\\PlayerController.cs",
@@ -278,8 +296,7 @@
               "RelativeToolTip": "Assets\\scripts\\player\\PlayerController.cs",
               "ViewState": "AgIAAIIAAAAAAAAAAAAqwJUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T23:02:20.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T23:02:20.672Z"
             }
           ]
         }

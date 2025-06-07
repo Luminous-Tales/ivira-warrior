@@ -13,7 +13,7 @@ public class GameOverManager : MonoBehaviour
     public TextMeshProUGUI metersText;
     public TextMeshProUGUI pointsText;
     public TextMeshProUGUI totalScoreText;
-
+    private ParticleSystem smoke;
     private void Awake()
     {
         if (Instance == null)
@@ -62,12 +62,18 @@ public class GameOverManager : MonoBehaviour
 
     public void ReturnMenu()
     {
+        smoke = FindFirstObjectByType<ParticleSystem>();
+        if (smoke != null) 
+            Destroy(smoke);
         Time.timeScale = 1f;
         SceneManager.LoadScene("menu");
     }
 
     public void RestartGame()
     {
+        smoke = FindFirstObjectByType<ParticleSystem>();
+        if (smoke != null)
+            Destroy(smoke);
         Time.timeScale = 1f;
         StopAllCoroutines();
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
