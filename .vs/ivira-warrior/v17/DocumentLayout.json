@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\",
+  "WorkspaceRootPath": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|c:\\users\\matutino\\documents\\github\\ivira-warrior\\assets\\scripts\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|c:\\users\\matutino\\documents\\github\\ivira-warrior\\assets\\scripts\\save\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|c:\\users\\matutino\\documents\\github\\ivira-warrior\\assets\\scripts\\obstacles\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacles\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,59 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Assets\\scripts\\save\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\save\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Assets\\scripts\\save\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\save\\SaveManager.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswHEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:29:30.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Assets\\scripts\\save\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\save\\SaveData.cs",
+              "ToolTip": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Assets\\scripts\\save\\SaveData.cs",
+              "RelativeToolTip": "Assets\\scripts\\save\\SaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:29:22.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObstacleMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\obstacles\\ObstacleMovement.cs",
+              "ToolTip": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleMovement.cs",
+              "RelativeToolTip": "Assets\\scripts\\obstacles\\ObstacleMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:16:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SpritePostProcess.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs",
+              "DocumentMoniker": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs",
+              "ToolTip": "C:\\Users\\Matutino\\Documents\\github\\ivira-warrior\\Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.animation\\Editor\\SpritePostProcess.cs",
               "ViewState": "AgIAANEAAAAAAAAAAAAAAOAAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
