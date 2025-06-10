@@ -7,6 +7,7 @@ public class GameOverManager : MonoBehaviour
 {
     public static GameOverManager Instance;
     public TextMeshProUGUI newRecordText;
+    public TextMeshProUGUI text2x;
     public GameObject gameOverPanel;
     public GameObject hudPanel;
     public GameObject uiButtons;
@@ -25,8 +26,6 @@ public class GameOverManager : MonoBehaviour
     public void ShowGameOver()
     {
         gameOverPanel.SetActive(true);
-
-
         int metersReached = (int)GameManager.instance.DistanceInMeters;
         int points = PointsManager.instance.GetPoints();
         float total = metersReached + points;
@@ -60,6 +59,27 @@ public class GameOverManager : MonoBehaviour
 
             yield return new WaitForSeconds(0.02f);
         }
+        yield return new WaitForSeconds(1f);
+        Debug.Log(SaveManager.GetData().unlockedItems.Contains(3));
+        if (SaveManager.GetData().unlockedItems.Contains(3))
+        {
+            text2x.gameObject.SetActive(true);
+            finalScore *= 2;
+            while (displayedScore < finalScore)
+            {
+
+                displayedScore += Mathf.CeilToInt(finalScore / 30f);
+                if (displayedScore > finalScore)
+                    displayedScore = (int)finalScore;
+
+                if (totalScoreText != null)
+                    totalScoreText.text = displayedScore.ToString();
+
+                yield return new WaitForSeconds(0.02f);
+            }
+            NewRecord(displayedScore);
+            Save(displayedScore);
+        }
     }
 
     public void NewRecord(int score)
@@ -72,22 +92,28 @@ public class GameOverManager : MonoBehaviour
 
     public void ReturnMenu()
     {
-        newRecordText.gameObject.SetActive(false);
-        smoke = FindFirstObjectByType<ParticleSystem>();
-        if (smoke != null) 
-            Destroy(smoke);
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("menu");
-    }
-
-    public void RestartGame()
-    {
+        StopAllCoroutines();
+        text2x.gameObject.SetActive(false);
         newRecordText.gameObject.SetActive(false);
         smoke = FindFirstObjectByType<ParticleSystem>();
         if (smoke != null)
             Destroy(smoke);
         Time.timeScale = 1f;
+
+        SceneManager.LoadScene("menu");
+    }
+    private void OnDestroy()
+    {
+        smoke = FindFirstObjectByType<ParticleSystem>();
+        if (smoke != null)
+            DontDestroyOnLoad(smoke);
+    }
+    public void RestartGame()
+    {
         StopAllCoroutines();
+        text2x.gameObject.SetActive(false);
+        newRecordText.gameObject.SetActive(false); 
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
     }

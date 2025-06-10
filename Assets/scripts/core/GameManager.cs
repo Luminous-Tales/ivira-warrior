@@ -40,8 +40,6 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1f;
     }
 
-    // Substitua seu método Update() inteiro por este
-
     void Update()
     {
         if (isGameOver) return;

@@ -1,4 +1,6 @@
+using UnityEditor;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ParticleMover : MonoBehaviour
 {
@@ -6,7 +8,9 @@ public class ParticleMover : MonoBehaviour
 
     void Update()
     {
-        if(GameManager.instance.isGameOver) return;
+        if(GameManager.instance.isGameOver)
+            Destroy(gameObject);
+
         transform.position += speed * Time.deltaTime * Vector3.left;
     }
 }

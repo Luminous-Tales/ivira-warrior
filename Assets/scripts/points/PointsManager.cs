@@ -7,7 +7,7 @@ public class PointsManager : MonoBehaviour
 
     private readonly int pointsJump = 50;
     private readonly int pointsDodge = 70;
-    private int score;
+    public int score;
     private TextMeshProUGUI scoreText;
 
     private void Awake()
