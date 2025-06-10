@@ -15,11 +15,11 @@ public class ObstacleMovement : MonoBehaviour
 
     void Update()
     {
-        if (GameManager.Instance.isGameOver) return;
+        if (GameManager.instance.isGameOver) return;
 
-        transform.position += Time.deltaTime * VelocityController.Instance.CurrentSpeed * Vector3.left;
-
-        if (transform.position.x < -20f)
+        float currentSpeed = GameManager.instance.currentGameSpeed;
+        transform.Translate(currentSpeed * Time.deltaTime * Vector2.left);
+        if (transform.position.x < -15)
         {
             Destroy(gameObject);
         }

@@ -6,7 +6,7 @@ public class ParticleMover : MonoBehaviour
 
     void Update()
     {
-        if(GameManager.Instance.isGameOver) return;
+        if(GameManager.instance.isGameOver) return;
         transform.position += speed * Time.deltaTime * Vector3.left;
     }
 }

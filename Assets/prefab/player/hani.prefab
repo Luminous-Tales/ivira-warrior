@@ -298,7 +298,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1527,7 +1527,7 @@ Transform:
   m_GameObject: {fileID: 6947076676240185256}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 3.1000001, z: 0}
+  m_LocalPosition: {x: 0, y: 3.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1885,6 +1885,7 @@ MonoBehaviour:
   audioJump: {fileID: 8300000, guid: 31a474b77721b824a981b0bc11c06269, type: 3}
   audioDamage: {fileID: 8300000, guid: 99183232cf8a643409ec8cb7b5cfdcb7, type: 3}
   audioSlash: {fileID: 8300000, guid: f4e2312cfaf07bd4b96476b41586c74c, type: 3}
+  audioDodge: {fileID: 0}
 --- !u!114 &7370582408820643000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2045,7 +2046,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 31a474b77721b824a981b0bc11c06269, type: 3}
+  m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 31a474b77721b824a981b0bc11c06269, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1

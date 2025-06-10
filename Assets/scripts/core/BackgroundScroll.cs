@@ -1,28 +1,28 @@
 using System;
 using UnityEngine;
 
-[RequireComponent(typeof(MeshRenderer))]
 public class ParallaxScroll : MonoBehaviour
 {
     [Range(0f, 1f)]
     public float depthFactor = 0.5f;
+    public float scrollSpeed;
 
-    private MeshRenderer meshRenderer;
+    private MeshRenderer quadRenderer;
+    private float currentOffset;
 
-    private void Start()
+    void Start()
     {
-        meshRenderer = GetComponent<MeshRenderer>();
+        quadRenderer = GetComponent<MeshRenderer>();
+        currentOffset = 0f;
     }
 
     private void Update()
     {
-        if (VelocityController.Instance == null || GameManager.Instance.isGameOver) return;
+        if (GameManager.instance.isGameOver) return;
 
-        float playerSpeed = VelocityController.Instance.CurrentSpeed;
-        float parallaxSpeed = (playerSpeed * depthFactor) / 25;
-
-        Vector2 offset = meshRenderer.material.mainTextureOffset;
-        offset.x += parallaxSpeed * Time.deltaTime;
-        meshRenderer.material.mainTextureOffset = offset;
+        currentOffset += (GameManager.instance.currentGameSpeed * scrollSpeed) * Time.deltaTime;
+        currentOffset %= 1f;
+        Vector2 newOffset = new(currentOffset, 0);
+        quadRenderer.material.mainTextureOffset = newOffset;
     }
 }

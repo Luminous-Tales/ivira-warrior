@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class HitboxAttack : MonoBehaviour
 {
-    private int pointsAttack = 200;
+    private int pointsAttack = 100;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

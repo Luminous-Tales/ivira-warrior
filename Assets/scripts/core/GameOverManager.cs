@@ -26,9 +26,9 @@ public class GameOverManager : MonoBehaviour
     {
         gameOverPanel.SetActive(true);
 
-        int metersReached = VelocityController.Instance.GetDistance();
+        float metersReached = GameManager.instance.DistanceInMeters;
         int points = PointsManager.instance.GetPoints();
-        int total = metersReached + points;
+        float total = metersReached + points;
 
         metersText.text = metersReached.ToString();
         pointsText.text = points.ToString();
@@ -43,9 +43,9 @@ public class GameOverManager : MonoBehaviour
         SaveManager.SaveScore(point);
     }
 
-    IEnumerator AnimateScore(int finalScore)
+    IEnumerator AnimateScore(float finalScore)
     {
-        int displayedScore = 0;
+        float displayedScore = 0;
 
         while (displayedScore < finalScore)
         {

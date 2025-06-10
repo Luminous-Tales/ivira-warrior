@@ -20,14 +20,14 @@ public class PlayerController : MonoBehaviour
     public AudioClip audioSlash;
     public AudioClip audioDodge;
     private AudioSource audioSource;
+    private bool isCurrentlyInFastMode = false;
 
     private void Awake()
     {
         audioSource = GetComponent<AudioSource>();
         int equippedId = SaveManager.GetEquippedWeapon();
         weaponRenderer.sprite = weaponSprites[equippedId];
-        health += SaveManager.GetExtraLives(); // 1 vida base + extras
-        Debug.Log($"Total de vidas: {health}");
+        health += SaveManager.GetExtraLives();
     }
 
     void Start()
@@ -39,7 +39,14 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if (GameManager.Instance.isGameOver)
+        bool shouldBeFast = GameManager.instance.IsPlayerRunningFast;
+
+        if (shouldBeFast != isCurrentlyInFastMode)
+        {
+            anim.SetBool("run2", shouldBeFast);
+            isCurrentlyInFastMode = shouldBeFast;
+        }
+        if (GameManager.instance.isGameOver)
         {
             anim.Play("idle");
         }
@@ -115,7 +122,14 @@ public class PlayerController : MonoBehaviour
         isActing = true;
         audioSource.clip = audioSlash;
         audioSource.Play();
-        anim.SetTrigger("attack");
+        if(GameManager.instance.IsPlayerRunningFast)
+        {
+            anim.SetTrigger("attack2");
+        }
+        else
+        {
+            anim.SetTrigger("attack");
+        }
 
         yield return new WaitForSeconds(0.5f);
         isActing = false;
@@ -137,13 +151,22 @@ public class PlayerController : MonoBehaviour
     {
         audioSource.clip = audioDamage;
         audioSource.Play();
-        anim.SetTrigger("hurt");
+        if (GameManager.instance.IsPlayerRunningFast)
+        {
+            anim.SetTrigger("hurt2");
+        }
+        else
+        {
+            Debug.Log(GameManager.instance.IsPlayerRunningFast);
+            anim.SetTrigger("hurt");
+        }
+        GameManager.instance.ResetSpeedOnDamage();
         gameObject.tag = "PlayerHurt";
         health -= 1;
 
         if (health <= 0)
         {
-            GameManager.Instance.GameOver();
+            GameManager.instance.GameOver();
         }
 
         rb.gravityScale = 5;
@@ -162,18 +185,15 @@ public class PlayerController : MonoBehaviour
     {
         var renderers = GetComponentsInChildren<SpriteRenderer>();
 
-        // Salva as cores originais
         Color[] originalColors = new Color[renderers.Length];
         for (int i = 0; i < renderers.Length; i++)
             originalColors[i] = renderers[i].color;
 
-        // Aplica a cor alvo
         foreach (var r in renderers)
             r.color = targetColor;
 
         yield return new WaitForSeconds(duration);
 
-        // Restaura
         for (int i = 0; i < renderers.Length; i++)
             renderers[i].color = originalColors[i];
     }

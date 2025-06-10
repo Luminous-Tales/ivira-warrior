@@ -5,8 +5,8 @@ public class PointsManager : MonoBehaviour
 {
     public static PointsManager instance;
 
-    private readonly int pointsJump = 100;
-    private readonly int pointsDodge = 150;
+    private readonly int pointsJump = 50;
+    private readonly int pointsDodge = 70;
     private int score;
     private TextMeshProUGUI scoreText;
 
