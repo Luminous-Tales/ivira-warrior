@@ -157,7 +157,6 @@ public class PlayerController : MonoBehaviour
         }
         else
         {
-            Debug.Log(GameManager.instance.IsPlayerRunningFast);
             anim.SetTrigger("hurt");
         }
         GameManager.instance.ResetSpeedOnDamage();

@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameOverManager : MonoBehaviour
 {
     public static GameOverManager Instance;
-
+    public TextMeshProUGUI newRecordText;
     public GameObject gameOverPanel;
     public GameObject hudPanel;
     public GameObject uiButtons;
@@ -26,10 +26,11 @@ public class GameOverManager : MonoBehaviour
     {
         gameOverPanel.SetActive(true);
 
-        float metersReached = GameManager.instance.DistanceInMeters;
+
+        int metersReached = (int)GameManager.instance.DistanceInMeters;
         int points = PointsManager.instance.GetPoints();
         float total = metersReached + points;
-
+        NewRecord(points);
         metersText.text = metersReached.ToString();
         pointsText.text = points.ToString();
         uiButtons.SetActive(false);
@@ -45,13 +46,14 @@ public class GameOverManager : MonoBehaviour
 
     IEnumerator AnimateScore(float finalScore)
     {
-        float displayedScore = 0;
+        int displayedScore = 0;
 
         while (displayedScore < finalScore)
         {
+
             displayedScore += Mathf.CeilToInt(finalScore / 30f);
             if (displayedScore > finalScore)
-                displayedScore = finalScore;
+                displayedScore = (int)finalScore;
 
             if (totalScoreText != null)
                 totalScoreText.text = displayedScore.ToString();
@@ -60,8 +62,17 @@ public class GameOverManager : MonoBehaviour
         }
     }
 
+    public void NewRecord(int score)
+    {
+        if (SaveManager.GetData().bestScore <= score)
+        {
+            newRecordText.gameObject.SetActive(true);
+        }
+    }
+
     public void ReturnMenu()
     {
+        newRecordText.gameObject.SetActive(false);
         smoke = FindFirstObjectByType<ParticleSystem>();
         if (smoke != null) 
             Destroy(smoke);
@@ -71,6 +82,7 @@ public class GameOverManager : MonoBehaviour
 
     public void RestartGame()
     {
+        newRecordText.gameObject.SetActive(false);
         smoke = FindFirstObjectByType<ParticleSystem>();
         if (smoke != null)
             Destroy(smoke);

@@ -40,43 +40,32 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1f;
     }
 
+    // Substitua seu método Update() inteiro por este
+
     void Update()
     {
-        if (!isGameOver)
+        if (isGameOver) return;
+
+        if (isDecelerating)
         {
-            if (currentGameSpeed < maxSpeed)
-            {
-                currentGameSpeed += speedIncreaseRate * Time.deltaTime;
-            }
-            if (currentGameSpeed >= speedToRunFast)
-            {
-                IsPlayerRunningFast = true;
-            }
-            else
-            {
-                IsPlayerRunningFast = false;
-            }
+            currentGameSpeed = Mathf.MoveTowards(currentGameSpeed, initialSpeed, decelerationRate * Time.deltaTime);
 
-            if (isDecelerating)
+            if (currentGameSpeed == initialSpeed)
             {
-                currentGameSpeed = Mathf.MoveTowards(currentGameSpeed, initialSpeed, decelerationRate * Time.deltaTime);
-                if (currentGameSpeed == initialSpeed)
-                {
-                    isDecelerating = false;
-                }
-            }
-            else if (currentGameSpeed < maxSpeed)
-            {
-                currentGameSpeed += speedIncreaseRate * Time.deltaTime;
-            }
-
-            if (distanceText != null)
-            {
-                distanceText.text = DistanceInMeters.ToString("F0");
+                isDecelerating = false;
             }
         }
+        else if (currentGameSpeed < maxSpeed)
+        {
+            currentGameSpeed += speedIncreaseRate * Time.deltaTime;
+        }
+        IsPlayerRunningFast = (currentGameSpeed >= speedToRunFast);
+        DistanceInMeters += currentGameSpeed * Time.deltaTime;
+        if (distanceText != null)
+        {
+            distanceText.text = DistanceInMeters.ToString("F0");
+        }
     }
-
     public void GameOver()
     {
         isGameOver = true;

@@ -2,7 +2,6 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-
 public class MenuManager : MonoBehaviour
 {
     [SerializeField] private Image panelBlack;
@@ -44,7 +43,6 @@ public class MenuManager : MonoBehaviour
         }
         yield return new WaitForSeconds(0.5f);
 
-        Debug.Log(color.a);
         UnityEngine.SceneManagement.SceneManager.LoadScene(1);
     }
     
