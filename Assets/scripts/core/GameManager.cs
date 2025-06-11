@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     public float DistanceInMeters { get; private set; }
     public bool IsPlayerRunningFast { get; private set; }
     public float speedToRunFast = 6f;
-
+    public bool isExiting = false;
     public TMP_Text distanceText;
     public float initialSpeed = 5f;
     public float maxSpeed = 15f;
@@ -69,7 +69,10 @@ public class GameManager : MonoBehaviour
         isGameOver = true;
         GameOverManager.Instance.ShowGameOver();
     }
-
+    void OnApplicationQuit()
+    {
+        isExiting = true;
+    }
     public void ResetSpeedOnDamage()
     {
         isDecelerating = true;

@@ -6,10 +6,13 @@ public class ObstacleMovement : MonoBehaviour
 
     private void OnDestroy()
     {
+        if (GameManager.instance != null && GameManager.instance.isExiting)
+        {
+            return;
+        }
         if (particlePrefab != null && Application.isPlaying)
         {
-            GameObject particleInstance = Instantiate(particlePrefab, new Vector3(transform.position.x, transform.position.y + 2, -2), Quaternion.identity);
-            Destroy(particleInstance, 2f);
+            Instantiate(particlePrefab, new Vector3(transform.position.x, transform.position.y + 2, -2), Quaternion.identity);
         }
     }
 

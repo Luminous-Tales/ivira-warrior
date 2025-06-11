@@ -1,58 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\jogovasco\\lll\\ivira-warrior\\assets\\scripts\\core\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\core\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\core\\backgroundscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\backgroundscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\hud\\setrenderorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\setrenderorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\core\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\core\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\save\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\obstacles\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\obstacles\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacles\\obstaclemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\points\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\points\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\obstacles\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacles\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\player\\hitboxattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\hitboxattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\particle\\particlemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\particle\\particlemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\particle\\particlemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\assets\\scripts\\obstacles\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacles\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\SceneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\core\\SceneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\core\\buttonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\buttonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\points\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\points\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\core\\backgroundscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\backgroundscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\hud\\setrenderorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\setrenderorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\save\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\assets\\scripts\\player\\hitboxattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F07DCE-1B69-99EA-58B2-95E5AFB6EF9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\hitboxattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,59 +114,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SetRenderOrder.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\hud\\SetRenderOrder.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\hud\\SetRenderOrder.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\hud\\SetRenderOrder.cs",
-              "RelativeToolTip": "Assets\\scripts\\hud\\SetRenderOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:58:47.61Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\core\\SceneController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\SceneController.cs",
+              "RelativeToolTip": "Assets\\scripts\\core\\SceneController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:54:05.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\ButtonsController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\core\\ButtonsController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\ButtonsController.cs",
+              "RelativeToolTip": "Assets\\scripts\\core\\ButtonsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:47:04.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MenuManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\core\\MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\MenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\core\\MenuManager.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\core\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\MenuManager.cs",
               "RelativeToolTip": "Assets\\scripts\\core\\MenuManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T03:08:33.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ObstacleSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\obstacles\\ObstacleSpawner.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleSpawner.cs",
-              "RelativeToolTip": "Assets\\scripts\\obstacles\\ObstacleSpawner.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:34:19.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ParticleMover.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\particle\\ParticleMover.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\particle\\ParticleMover.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\particle\\ParticleMover.cs",
-              "RelativeToolTip": "Assets\\scripts\\particle\\ParticleMover.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:46:51.738Z"
+              "WhenOpened": "2025-06-10T03:08:33.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ObstacleSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\obstacles\\ObstacleSpawner.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleSpawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\obstacles\\ObstacleSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T21:34:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParticleMover.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\particle\\ParticleMover.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\particle\\ParticleMover.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\particle\\ParticleMover.cs",
+              "RelativeToolTip": "Assets\\scripts\\particle\\ParticleMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T21:46:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "BackgroundScroll.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\core\\BackgroundScroll.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\BackgroundScroll.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\core\\BackgroundScroll.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\core\\BackgroundScroll.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\BackgroundScroll.cs",
               "RelativeToolTip": "Assets\\scripts\\core\\BackgroundScroll.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAhwBQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,62 +188,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ObstacleMovement.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\obstacles\\ObstacleMovement.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleMovement.cs",
-              "RelativeToolTip": "Assets\\scripts\\obstacles\\ObstacleMovement.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBQAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:42:17.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\player\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\player\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\player\\PlayerController.cs",
               "RelativeToolTip": "Assets\\scripts\\player\\PlayerController.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKcAAAApAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:40:54.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T21:40:54.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\core\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\core\\GameManager.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\core\\GameManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\GameManager.cs",
               "RelativeToolTip": "Assets\\scripts\\core\\GameManager.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAhwEcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:37:30.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T21:37:30.636Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameOverManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\core\\GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\core\\GameOverManager.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\core\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\core\\GameOverManager.cs",
               "RelativeToolTip": "Assets\\scripts\\core\\GameOverManager.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T21:05:16.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "HitBoxAttack.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\player\\HitBoxAttack.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\player\\HitBoxAttack.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\player\\HitBoxAttack.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\player\\HitBoxAttack.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\player\\HitBoxAttack.cs",
               "RelativeToolTip": "Assets\\scripts\\player\\HitBoxAttack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,35 +237,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "ObstacleMovement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\obstacles\\ObstacleMovement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\obstacles\\ObstacleMovement.cs",
+              "RelativeToolTip": "Assets\\scripts\\obstacles\\ObstacleMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T21:42:17.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "PointsManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\points\\PointsManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\points\\PointsManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\points\\PointsManager.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\points\\PointsManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\points\\PointsManager.cs",
               "RelativeToolTip": "Assets\\scripts\\points\\PointsManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T20:46:20.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SaveManager.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\save\\SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\save\\SaveManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\save\\SaveManager.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\save\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\save\\SaveManager.cs",
               "RelativeToolTip": "Assets\\scripts\\save\\SaveManager.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCwAAAAdAAAAAAAAAA==",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAkwG0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T20:33:01.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "SetRenderOrder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\hud\\SetRenderOrder.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\hud\\SetRenderOrder.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\hud\\SetRenderOrder.cs",
+              "RelativeToolTip": "Assets\\scripts\\hud\\SetRenderOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:58:47.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SaveData.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\save\\SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\save\\SaveData.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\save\\SaveData.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\lll\\ivira-warrior\\Assets\\scripts\\save\\SaveData.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\gitHub\\jogoVasco\\ivira-warrior\\Assets\\scripts\\save\\SaveData.cs",
               "RelativeToolTip": "Assets\\scripts\\save\\SaveData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

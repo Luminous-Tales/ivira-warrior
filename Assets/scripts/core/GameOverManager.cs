@@ -92,29 +92,29 @@ public class GameOverManager : MonoBehaviour
 
     public void ReturnMenu()
     {
+        ResetObjects();
+        if (GameManager.instance != null)
+        {
+            GameManager.instance.isExiting = true;
+        }
+        SceneManager.LoadScene("menu");
+    }
+
+    public void RestartGame()
+    {
+        ResetObjects();
+        if (GameManager.instance != null)
+        {
+            GameManager.instance.isExiting = true;
+        }
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void ResetObjects()
+    {
         StopAllCoroutines();
         text2x.gameObject.SetActive(false);
         newRecordText.gameObject.SetActive(false);
-        smoke = FindFirstObjectByType<ParticleSystem>();
-        if (smoke != null)
-            Destroy(smoke);
         Time.timeScale = 1f;
-
-        SceneManager.LoadScene("menu");
-    }
-    private void OnDestroy()
-    {
-        smoke = FindFirstObjectByType<ParticleSystem>();
-        if (smoke != null)
-            DontDestroyOnLoad(smoke);
-    }
-    public void RestartGame()
-    {
-        StopAllCoroutines();
-        text2x.gameObject.SetActive(false);
-        newRecordText.gameObject.SetActive(false); 
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-
     }
 }

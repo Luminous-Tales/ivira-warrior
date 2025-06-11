@@ -8,9 +8,6 @@ public class ParticleMover : MonoBehaviour
 
     void Update()
     {
-        if(GameManager.instance.isGameOver)
-            Destroy(gameObject);
-
         transform.position += speed * Time.deltaTime * Vector3.left;
     }
 }
