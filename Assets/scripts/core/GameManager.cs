@@ -64,6 +64,7 @@ public class GameManager : MonoBehaviour
             distanceText.text = DistanceInMeters.ToString("F0");
         }
     }
+
     public void GameOver()
     {
         isGameOver = true;

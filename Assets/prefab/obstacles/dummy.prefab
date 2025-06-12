@@ -177,6 +177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   particlePrefab: {fileID: 875173435882450343, guid: 574b46c3538dd214d9966c175d2939b3, type: 3}
+  obstacleTag: dummy
 --- !u!114 &6111606402286606553
 MonoBehaviour:
   m_ObjectHideFlags: 0

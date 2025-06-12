@@ -123,6 +123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   particlePrefab: {fileID: 875173435882450343, guid: 574b46c3538dd214d9966c175d2939b3, type: 3}
+  obstacleTag: highfence
 --- !u!212 &3516982629217248938
 SpriteRenderer:
   m_ObjectHideFlags: 0

@@ -208,10 +208,25 @@ public class PlayerController : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collider)
     {
+        // Verifica se colidiu com qualquer tipo de obstáculo
         if (collider.CompareTag("obstacle") || collider.CompareTag("breakableObstacle"))
         {
+            // A lógica de dano continua a mesma
             StartCoroutine(TakeDamage());
-            Destroy(collider.gameObject);
+
+            // Pega o componente do obstáculo
+            ObstacleMovement obstacle = collider.GetComponent<ObstacleMovement>();
+            if (obstacle != null)
+            {
+                // Manda o obstáculo se encarregar de voltar para a pool.
+                // O método seguro que criamos vai lidar com a partícula e o Game Over.
+                obstacle.ReturnObstacleToPool();
+            }
+            else
+            {
+                // Se, por algum motivo, não encontrar o script, apenas desativa o objeto.
+                collider.gameObject.SetActive(false);
+            }
         }
     }
 }

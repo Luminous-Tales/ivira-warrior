@@ -122,6 +122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   particlePrefab: {fileID: 875173435882450343, guid: 574b46c3538dd214d9966c175d2939b3, type: 3}
+  obstacleTag: tree
 --- !u!212 &75611859373896316
 SpriteRenderer:
   m_ObjectHideFlags: 0

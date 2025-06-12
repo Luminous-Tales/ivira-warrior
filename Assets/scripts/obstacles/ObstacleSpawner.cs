@@ -1,17 +1,41 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class ObstacleSpawner : MonoBehaviour
 {
-    public GameObject[] obstaclePrefabs;
-    public Transform spawnPoint;
+    public List<string> obstacleTags;
+    public float spawnInterval = 2f;
+    private float timer;
 
-    private void Start()
+/*    private void Start()
     {
         StartCoroutine(SpawnObstaclesLoop());
+    }*/
+    void Update()
+    {
+        if (GameManager.instance.isGameOver) return;
+
+        timer += Time.deltaTime;
+        if (timer >= spawnInterval)
+        {
+            SpawnObstacle();
+            timer = 0;
+        }
     }
 
-    IEnumerator SpawnObstaclesLoop()
+    void SpawnObstacle()
+    {
+        // Sorteia uma tag da lista
+        string randomTag = obstacleTags[Random.Range(0, obstacleTags.Count)];
+
+        // Em vez de Instantiate(...)
+        ObjectPooler.Instance.SpawnFromPool(randomTag, transform.position, Quaternion.identity);
+    }
+
+
+
+/*    IEnumerator SpawnObstaclesLoop()
     {
         while (!GameManager.instance.isGameOver)
         {
@@ -30,5 +54,5 @@ public class ObstacleSpawner : MonoBehaviour
                 Destroy(newObstacle, 10f);
             }
         }
-    }
+    }*/
 }

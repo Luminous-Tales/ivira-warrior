@@ -266,6 +266,7 @@ Transform:
   - {fileID: 663899124}
   - {fileID: 747678719}
   - {fileID: 733058109}
+  - {fileID: 1461067122}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &173969021
@@ -1841,6 +1842,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedToRunFast: 8
+  isExiting: 0
   distanceText: {fileID: 395938758}
   initialSpeed: 6
   maxSpeed: 15
@@ -2249,13 +2251,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f551d7b9b3e06747bfc8e7ca7e1be87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstaclePrefabs:
-  - {fileID: 5816644294646927567, guid: ca84dd6f2d6983c4cb59c39f0c497c6e, type: 3}
-  - {fileID: 9213232513668924795, guid: 0b1622b26f7dd5b4699c4fd0c683b794, type: 3}
-  - {fileID: 1522925504949674047, guid: 94723bd923784364f8cc1a3bafb51257, type: 3}
-  - {fileID: 5816644294646927567, guid: d80a260ba8c7da240a62ecc7b065cedc, type: 3}
-  - {fileID: 2771336245716906896, guid: c5ba02448a120784cadc0d74e10a8f82, type: 3}
-  spawnPoint: {fileID: 747678719}
+  obstacleTags:
+  - dummy
+  - fence
+  - highfence
+  - rock
+  - tree
+  spawnInterval: 3
 --- !u!1 &761614172
 GameObject:
   m_ObjectHideFlags: 0
@@ -4805,6 +4807,69 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!1 &1461067121
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1461067122}
+  - component: {fileID: 1461067123}
+  m_Layer: 0
+  m_Name: ObjectPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1461067122
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1461067121}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 16.01, y: 1.54, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 119573252}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1461067123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1461067121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7717ae1ebb6168478e19998dfeaeb8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pools:
+  - tag: dummy
+    prefab: {fileID: 9213232513668924795, guid: 0b1622b26f7dd5b4699c4fd0c683b794, type: 3}
+    size: 2
+  - tag: fence
+    prefab: {fileID: 5816644294646927567, guid: ca84dd6f2d6983c4cb59c39f0c497c6e, type: 3}
+    size: 2
+  - tag: highfence
+    prefab: {fileID: 1522925504949674047, guid: 94723bd923784364f8cc1a3bafb51257, type: 3}
+    size: 2
+  - tag: rock
+    prefab: {fileID: 5816644294646927567, guid: d80a260ba8c7da240a62ecc7b065cedc, type: 3}
+    size: 2
+  - tag: tree
+    prefab: {fileID: 2771336245716906896, guid: c5ba02448a120784cadc0d74e10a8f82, type: 3}
+    size: 2
+  - tag: smoke
+    prefab: {fileID: 875173435882450343, guid: 574b46c3538dd214d9966c175d2939b3, type: 3}
+    size: 2
 --- !u!114 &1483970811
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6304,10 +6369,10 @@ RectTransform:
   - {fileID: 3542965052718642598}
   m_Father: {fileID: 7361022976761099154}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -416, y: 83}
-  m_SizeDelta: {x: 550.387, y: 262.2869}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 544, y: -457}
+  m_SizeDelta: {x: 550.387, y: 262.28687}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2069671329
 MonoBehaviour:

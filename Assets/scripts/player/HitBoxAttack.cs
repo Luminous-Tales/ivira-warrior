@@ -9,7 +9,12 @@ public class HitboxAttack : MonoBehaviour
         if (collision.CompareTag("breakableObstacle"))
         {
             PointsManager.instance.AddScore(pointsAttack);
-            Destroy(collision.gameObject);
+            ObstacleMovement obstacle = collision.GetComponent<ObstacleMovement>();
+            if (obstacle != null)
+            {
+                // Perfeito! Ele chama o nosso método seguro.
+                obstacle.ReturnObstacleToPool();
+            }
         }
     }
 }
